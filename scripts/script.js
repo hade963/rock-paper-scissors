@@ -36,7 +36,7 @@ function game() {
         console.log("invalid input");
 
         else if(result.includes("win")) {
-           score++;
+        score++;
             console.log(result);
             i++;
         }
